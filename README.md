@@ -2,7 +2,7 @@
 
 ServiceSlot is a responsive appointment-request interface for a fictional home-services business. It demonstrates a customer booking flow and a small local request queue built with React, Bootstrap 5, and Vite.
 
-**Live demo:** https://serviceslot-wdf-5618s-projects.vercel.app  
+**Live demo:** https://serviceslot.vercel.app  
 **Source code:** https://github.com/wdf-5618/serviceslot
 
 ## Features
